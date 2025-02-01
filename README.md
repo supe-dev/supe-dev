@@ -12,5 +12,6 @@ With 5 years of hands-on experience in blockchain technology, I've successfully 
 - **Blockchain Development:** Core protocol engineering using Rust with Substrate and Cosmos SDK  
 - **Smart Contract Development:** Building secure and scalable contracts in Rust, Solidity, Move, and Cairo  
 - **Backend Systems:** Rust-based backend architecture for decentralized applications  
+- **Full-Stack dApp Development:** Proficient in creating end-to-end decentralized applications using React, Node.js, Express.js, and MongoDB, with strong expertise in JavaScript and Node.js  
 
 This is my new GitHub space to showcase exciting projects and collaborations. Let's build something impactful together! 🚀
